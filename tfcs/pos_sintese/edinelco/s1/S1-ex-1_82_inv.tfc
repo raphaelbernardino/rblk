@@ -1,0 +1,15 @@
+# permutation: ex-1_82
+# [4, 3, 6, 7, 0, 1, 2, 5]
+# n.bits: 3
+# DH(pi)= 8
+# reverse option: 0
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T3 b0,b2',b1
+T3 b0,b1,b2
+T3 b0,b2',b1
+T1 b2
+END
+# Total Gates =  4

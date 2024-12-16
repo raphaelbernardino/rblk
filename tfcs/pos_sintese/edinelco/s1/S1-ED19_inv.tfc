@@ -1,0 +1,16 @@
+# permutation: ED19
+# [4, 5, 1, 6, 3, 2, 7, 0]
+# n.bits: 3
+# DH(pi)= 16
+# reverse option: 0
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T3 b0',b1,b2
+T3 b1',b2',b0
+T2 b2,b1
+T1 b2
+T1 b0
+END
+# Total Gates =  5

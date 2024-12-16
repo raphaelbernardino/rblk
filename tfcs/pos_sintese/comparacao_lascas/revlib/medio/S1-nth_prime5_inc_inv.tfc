@@ -1,0 +1,55 @@
+# permutation: nth_prime5_inc
+# [0, 12, 1, 2, 13, 3, 14, 4, 15, 16, 17, 5, 18, 6, 19, 20, 21, 7, 22, 8, 23, 24, 25, 9, 26, 27, 28, 29, 30, 10, 31, 11]
+# n.bits: 5
+# DH(pi)= 78
+# reverse option: 0
+.v b0,b1,b2,b3,b4 
+.i b0,b1,b2,b3,b4 
+.o b0,b1,b2,b3,b4 
+BEGIN
+T5 b0,b1,b3,b4,b2
+T5 b0,b1,b2',b4,b3
+T5 b1,b2',b3',b4,b0
+T5 b0',b1,b2',b4,b3
+T5 b0',b1,b2',b3,b4
+T5 b0',b1,b2',b4',b3
+T5 b0',b2',b3',b4',b1
+T5 b1',b2',b3',b4',b0
+T5 b0,b1',b2',b3',b4
+T5 b0,b1',b3',b4,b2
+T5 b0,b1',b2,b3',b4
+T5 b1',b2,b3',b4',b0
+T5 b0',b1',b2,b4',b3
+T5 b1',b2,b3',b4',b0
+T5 b0,b1,b3,b4,b2
+T5 b1,b2',b3',b4,b0
+T5 b1,b2',b3,b4,b0
+T5 b0,b2',b3,b4,b1
+T5 b1',b2',b3,b4,b0
+T5 b0',b1',b3,b4,b2
+T5 b0',b2,b3,b4,b1
+T5 b1',b2',b3',b4',b0
+T5 b0,b1',b3,b4,b2
+T5 b0,b1',b2',b3,b4
+T4 b2,b3,b4',b0
+T4 b0,b2,b3',b4
+T4 b0',b3',b4',b1
+T4 b0,b1,b2,b3
+T4 b0',b2',b3',b1
+T4 b0',b1,b2',b3
+T4 b1,b3,b4',b0
+T4 b0,b1,b2,b4
+T4 b1,b3',b4',b2
+T4 b0',b2,b4',b3
+T4 b0,b2',b4',b1
+T4 b0,b1,b3',b2
+T3 b0,b2',b1
+T3 b1',b4,b2
+T3 b1',b2',b0
+T2 b1',b0
+T2 b1,b3
+T2 b0',b2
+T1 b0
+T1 b1
+END
+# Total Gates =  44

@@ -1,0 +1,13 @@
+# permutation: toffoli_double_2
+# [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 10, 13, 12, 14, 15]
+# n.bits: 4
+# DH(pi)= 4
+# reverse option: 0
+.v b0,b1,b2,b3 
+.i b0,b1,b2,b3 
+.o b0,b1,b2,b3 
+BEGIN
+T4 b1',b2,b3,b0
+T4 b1,b2',b3,b0
+END
+# Total Gates =  2

@@ -1,0 +1,19 @@
+# (c) Copyright 2011 Marek Szyprowski and Pawel Kerntopf
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d
+.i a,b,c,d
+.o a,b,c,d
+BEGIN
+t2 c,a
+t1 a
+t2 a,d
+t3 a,b,d
+t3 c,d,b
+t2 d,a
+t3 a,d,c
+t3 b,c,a
+t3 a,b,d
+t2 d,b
+t2 d,c
+t1 a
+END

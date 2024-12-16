@@ -1,0 +1,10 @@
+.v b0,b1,b2,b3
+.i b0,b1,b2,b3
+.o b0,b1,b2,b3
+BEGIN
+T3 b0,b1,b2
+T3 b0,b1,b2
+T3 b0,b1,b2
+T3 b0,b1,b2
+T3 b0',b1',b3
+END

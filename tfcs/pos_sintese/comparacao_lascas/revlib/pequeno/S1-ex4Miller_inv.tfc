@@ -1,0 +1,14 @@
+# permutation: ex4Miller
+# [7, 0, 1, 2, 3, 4, 5, 6]
+# n.bits: 3
+# DH(pi)= 14
+# reverse option: 0
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T3 b0',b1',b2
+T2 b0',b1
+T1 b0
+END
+# Total Gates =  3

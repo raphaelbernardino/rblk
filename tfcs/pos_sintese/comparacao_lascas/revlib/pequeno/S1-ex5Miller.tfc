@@ -1,0 +1,15 @@
+# permutation: ex5Miller
+# [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0]
+# n.bits: 4
+# DH(pi)= 30
+# reverse option: 0
+.v b0,b1,b2,b3 
+.i b0,b1,b2,b3 
+.o b0,b1,b2,b3 
+BEGIN
+T4 b0,b1,b2,b3
+T3 b0,b1,b2
+T2 b0,b1
+T1 b0
+END
+# Total Gates =  4

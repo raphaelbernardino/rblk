@@ -1,0 +1,20 @@
+# (c) Copyright 2004-2009 Dmitri Maslov
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d
+.i a,b,c,d
+.o a,b,c,d
+BEGIN
+t3 a,c,b
+t4 a,b,c,d
+t2 d,b
+t3 b,d,c
+t3 b,c,d
+t4 b,c,d,a
+t2 c,b
+t3 a,b,c
+t3 b,d,a
+t2 a,b
+t3 a,d,b
+t2 b,a
+END
+# size = 12 cost = 64*

@@ -1,0 +1,11 @@
+Nome TFC,GC Original,QC Original,GC Otimizado,QC Otimizado,Diff GC,Diff QC,Observações
+circuito_aleatorio_0000.tfc,500,1216,1,1,499,1215,
+circuito_aleatorio_0001.tfc,500,1263,0,0,500,1263,
+circuito_aleatorio_0003.tfc,500,1319,1,1,499,1318,
+circuito_aleatorio_0002.tfc,500,1267,4,10,496,1257,
+circuito_aleatorio_0004.tfc,500,1296,1,3,499,1293,
+circuito_aleatorio_0005.tfc,500,1264,1,1,499,1263,
+circuito_aleatorio_0006.tfc,500,1236,1,5,499,1231,
+circuito_aleatorio_0007.tfc,500,1252,1,6,499,1246,
+circuito_aleatorio_0008.tfc,500,1307,2,7,498,1300,
+circuito_aleatorio_0009.tfc,500,1366,1,5,499,1361,

@@ -1,0 +1,46 @@
+# (c) Copyright 2011 Marek Szyprowski and Pawel Kerntopf
+# Synthesized by optimizing reversible circuit from http://webhome.cs.uvic.ca/~dmaslov/hwb5_31_91.tfc
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+t2 d,e
+t2 a,c
+t3 b,c,a
+t2 a,d
+t2 d,a
+t2 e,d
+t3 d,e,a
+t2 a,c
+t3 c,e,d
+t2 e,c
+t2 d,b
+t2 b,c
+t1 b
+t4 c,d,e,b
+t2 e,c
+t2 d,c
+t2 a,e
+t2 c,d
+t3 c,d,a
+t3 a,c,d
+t2 c,a
+t2 e,c
+t3 a,b,e
+t2 a,b
+t3 b,e,a
+t2 a,c
+t2 e,c
+t4 a,b,e,d
+t2 d,c
+t1 b
+t2 d,e
+t2 e,d
+t2 c,d
+t2 b,d
+t2 d,c
+t2 c,b
+t2 a,b
+t2 b,a
+END

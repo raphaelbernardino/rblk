@@ -1,0 +1,44 @@
+# (c) Copyright 2011 Marek Szyprowski and Pawel Kerntopf
+# Synthesized by optimizing reversible circuit from http://webhome.cs.uvic.ca/~dmaslov/nth_prime5_inc_29_91.tfc
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+t1 a
+t2 a,b
+t2 d,a
+t2 c,d
+t3 a,b,c
+t2 a,b
+t2 e,b
+t2 b,c
+t3 d,e,a
+t2 e,d
+t2 b,d
+t3 b,d,e
+t2 b,d
+t2 a,c
+t3 a,c,b
+t2 b,e
+t3 b,e,d
+t3 a,c,e
+t1 a
+t4 a,d,e,b
+t2 d,c
+t3 b,e,d
+t2 d,c
+t3 c,d,a
+t3 a,d,c
+t2 d,a
+t2 e,c
+t3 b,e,d
+t2 a,b
+t2 b,a
+t2 d,a
+t3 a,d,b
+t3 b,d,c
+t2 d,b
+t2 d,c
+t3 c,d,e
+END

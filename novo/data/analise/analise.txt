@@ -1,0 +1,24 @@
+---------- ./toffoli_1bits.json ----------
+menor(1): ['T1 b0']
+maior(1): ['T1 b0']
+tamanho médio = 0.50
+
+---------- ./toffoli_2bits.json ----------
+menor(1): ['T2 b1,b0']
+maior(3): ['T2 b1,b0', "T2 b0',b1", 'T2 b1,b0']
+tamanho médio = 1.83
+
+---------- ./toffoli_3bits.json ----------
+menor(1): ['T3 b1,b2,b0']
+maior(6): ['T2 b2,b0', 'T2 b2,b1', "T2 b1',b2", "T3 b0',b1,b2", 'T2 b2,b0', 'T2 b2,b1']
+tamanho médio = 4.58
+
+---------- ./toffoli_fredkin_2bits.json ----------
+menor(1): ['T2 b1,b0']
+maior(3): ['T1 b0', 'T1 b1', 'F2 b0, b1']
+tamanho médio = 1.67
+
+---------- ./toffoli_fredkin_3bits.json ----------
+menor(1): ['T3 b1,b2,b0']
+maior(6): ["T2 b2',b0", 'T3 b1,b2,b0', 'T1 b1', 'T1 b2', "F3 b1',b0, b2", "T3 b0,b2',b1"]
+tamanho médio = 4.14

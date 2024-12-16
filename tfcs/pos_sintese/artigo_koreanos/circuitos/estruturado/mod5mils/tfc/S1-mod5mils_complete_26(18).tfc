@@ -1,0 +1,16 @@
+# permutation: mod5mils_complete_26(18)
+# [3, 2, 0, 1, 6, 7, 4, 5, 8, 9, 11, 10, 12, 13, 14, 15, 18, 19, 16, 17, 23, 22, 20, 21, 24, 25, 26, 27, 28, 29, 31, 30]
+# n.bits: 5
+# DH(pi)= 24
+# reverse option: 0
+.v b0,b1,b2,b3,b4 
+.i b0,b1,b2,b3,b4 
+.o b0,b1,b2,b3,b4 
+BEGIN
+T5 b1,b2,b3,b4,b0
+T5 b1',b2,b3',b4,b0
+T5 b1,b2',b3,b4',b0
+T5 b1',b2',b3',b4',b0
+T2 b3',b1
+END
+# Total Gates =  5

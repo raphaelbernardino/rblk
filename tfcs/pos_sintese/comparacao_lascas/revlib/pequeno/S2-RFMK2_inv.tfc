@@ -1,0 +1,15 @@
+# permutation: RFMK2
+# [5, 2, 7, 4, 1, 6, 3, 0]
+# n.bits: 3
+# DH(pi)= 18
+# reverse option: 1
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T1 b2
+T2 b0,b1
+T3 b0,b1,b2
+T1 b0
+END
+# Total Gates =  4

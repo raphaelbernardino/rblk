@@ -1,0 +1,36 @@
+# GATE_COUNT = 30 		 QUANTUM_COST = 82 		 ANCILLAS = 0
+.v b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b24
+.i b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b24
+.o b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b24
+BEGIN
+T3 b11,b12',b13
+T2 b12,b13
+T3 b10,b13',b14
+T2 b13,b14
+T3 b9,b14',b15
+T2 b14,b15
+T3 b8,b15',b16
+T2 b15,b16
+T3 b7,b16',b17
+T2 b16,b17
+T3 b6,b17,b18
+T3 b5,b18,b19
+T3 b4,b19,b20
+T3 b3,b20,b21
+T3 b2,b21,b22
+T3 b1,b22,b23
+T2 b0,b23
+T2 b1,b22
+T2 b2,b21
+T2 b3,b20
+T2 b4,b19
+T2 b5,b18
+T2 b6,b17
+T2 b7',b16
+T2 b8',b15
+T2 b9',b14
+T2 b10',b13
+T2 b11,b24
+T2 b12,b24
+T1 b12
+END

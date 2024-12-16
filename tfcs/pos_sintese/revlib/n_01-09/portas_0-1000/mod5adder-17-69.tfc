@@ -1,0 +1,25 @@
+# Copyright (C) 2018  Xiaoxiao Wang <xxwang@xsyu.edu.cn>
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d,e,f
+.i a,b,c,d,e,f
+.o a,b,c,d,e,f
+BEGIN
+T3 a,d,b
+T1 c
+T1 b
+T2 f,d
+T3 c,d,a
+T3 a,f,b
+T2 b,a
+T2 f,d
+T4 a,b,d,c
+T3 c,e,b
+T3 a,b,c
+T3 c,e,a
+T4 a,c,f,b
+T3 a,b,c
+T2 b,a
+T1 b
+T1 c
+END
+# size = 17 cost = 69

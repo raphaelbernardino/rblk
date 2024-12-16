@@ -1,0 +1,19 @@
+#Written by RCViewer+ (RCViewer+ is a viewer/analyzer for quantum and reversible circuits)
+#See http://ceit.aut.ac.ir/QDA/RCV.htm for more details
+.v a1,a2,a3,a4
+.i a1,a2,a3,a4
+.o a1,a2,a3,a4
+.c 
+BEGIN
+
+t2 a4,a1
+v a3,a2
+t2 a1,a3
+v+ a4,a2
+v a3,a2
+t2 a2,a4
+t1 a2
+t2 a2,a3
+t2 a3,a1
+
+END

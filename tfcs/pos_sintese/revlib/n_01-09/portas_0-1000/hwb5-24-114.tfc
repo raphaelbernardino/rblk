@@ -1,0 +1,30 @@
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+T2 b,e
+T2 d,e
+T2 e,c
+T3 a,c,b
+T2 c,e
+T2 c,a
+T1 d
+T2 d,b
+T4 a,b,e,d
+T3 a,d,e
+T3 a,e,d
+T1 d
+T4 b,c,e,d
+T4 b,d,e,c
+T4 c,d,e,b
+T3 a,d,c
+T3 a,b,c
+T2 a,e
+T1 b
+T4 b,c,d,e
+T2 d,a
+T2 b,d
+T2 e,b
+T2 c,d
+END
+# size = 24 cost = 114

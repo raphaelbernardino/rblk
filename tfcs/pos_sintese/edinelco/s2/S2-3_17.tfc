@@ -1,0 +1,17 @@
+# permutation: 3_17
+# [7, 0, 1, 3, 4, 2, 6, 5]
+# n.bits: 3
+# DH(pi)= 10
+# reverse option: 1
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T2 b1',b0
+T3 b1',b2,b0
+T3 b0,b1',b2
+T3 b0,b2',b1
+T3 b1,b2',b0
+T2 b0,b1
+END
+# Total Gates =  6

@@ -1,0 +1,27 @@
+# permutation: 4_49
+# [8, 1, 12, 3, 13, 4, 5, 7, 6, 11, 9, 15, 2, 10, 14, 0]
+# n.bits: 4
+# DH(pi)= 26
+# reverse option: 0
+.v b0,b1,b2,b3 
+.i b0,b1,b2,b3 
+.o b0,b1,b2,b3 
+BEGIN
+T4 b1,b2,b3,b0
+T4 b0',b2,b3,b1
+T4 b0',b1',b2,b3
+T4 b0',b1',b3',b2
+T4 b1',b2',b3',b0
+T4 b0,b1',b3',b2
+T4 b0',b2,b3,b1
+T4 b0,b1,b3,b2
+T4 b0,b2',b3,b1
+T4 b0',b2',b3',b1
+T3 b0,b1',b3
+T3 b1',b3',b0
+T2 b1',b3
+T2 b1',b2
+T2 b0',b1
+T2 b1',b0
+END
+# Total Gates =  16

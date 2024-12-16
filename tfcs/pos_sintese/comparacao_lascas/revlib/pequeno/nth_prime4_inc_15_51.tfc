@@ -1,0 +1,24 @@
+# Synthesized by applying the method "Reversible Circuit Synthesis Using a Cycle-Based Approach" (http://arxiv.org/abs/1004.4320)
+# (c) Copyright 2007-2010 Mehdi Saeedi, Morteza Saheb Zamani, Mehdi Sedighi, and Zahra Sasanian (http://ceit.aut.ac.ir/QDA/)
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d
+.i a,b,c,d
+.o a,b,c,d
+BEGIN
+t2 a,c
+t2 c,a
+t2 c,b
+t2 d,a
+t3 a,b,d
+t4 a,b,d,c
+t2 d,b
+t3 b,c,a
+t4 a,b,c,d
+t2 d,c
+t3 a,c,b
+t2 a,d
+t2 b,a
+t2 c,a
+t2 d,b
+END
+

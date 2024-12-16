@@ -1,0 +1,16 @@
+regra elim not
+otimo (janela com menor dist. hamming)
+reed  (janela com mesmo alvo)
+otimo (janela com menor dist. hamming)
+
+vs
+
+reed
+otimos
+reed
+
+vs
+
+otimos
+reed
+otimos

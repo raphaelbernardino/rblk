@@ -1,0 +1,14 @@
+# permutation: MMD04
+# [2, 6, 0, 1, 7, 3, 5, 4]
+# n.bits: 3
+# DH(pi)= 14
+# reverse option: 0
+.v b0,b1,b2 
+.i b0,b1,b2 
+.o b0,b1,b2 
+BEGIN
+T3 b0,b1',b2
+T2 b2,b0
+T1 b1
+END
+# Total Gates =  3

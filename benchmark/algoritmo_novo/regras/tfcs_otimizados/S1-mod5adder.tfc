@@ -1,0 +1,27 @@
+# GATE_COUNT = 21 		 QUANTUM_COST = 660 		 ANCILLAS = 0
+.v b0,b1,b2,b3,b4,b5
+.i b0,b1,b2,b3,b4,b5
+.o b0,b1,b2,b3,b4,b5
+BEGIN
+T6 b0',b2',b3,b4',b5,b1
+T6 b1',b2',b3,b4',b5,b0
+T6 b1,b2',b3',b4',b5,b0
+T6 b1',b2',b3',b4,b5',b0
+T6 b0',b2',b3',b4,b5',b1
+T6 b0,b2',b3',b4',b5',b1
+T6 b1',b2',b3',b4',b5',b0
+T6 b0',b1',b3',b4',b5',b2
+T5 b0',b2',b4',b5,b1
+T5 b1,b2',b4,b5',b0
+T5 b0,b2',b3,b4',b1
+T4 b0',b1',b3',b2
+T4 b1',b2',b3',b0
+T4 b0',b1',b3',b2
+T3 b0,b2',b1
+T3 b0,b5,b1
+T3 b0,b3,b1
+T3 b2',b5,b1
+T3 b2',b3,b0
+T3 b0',b1',b2
+T3 b2',b4,b1
+END

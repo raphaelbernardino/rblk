@@ -1,0 +1,21 @@
+.v a,b,c,d,e,f
+.i a,b,c,d,e,f
+.o a,b,c,d,e,f
+BEGIN
+T1 b
+T3 a,d,b
+T1 a
+T4 a,b,f,c
+T1 c
+T3 c,d,a
+T4 a,b,d,c
+T3 c,e,b
+T4 a,b,e,c
+T4 b,c,e,a
+T3 c,f,a
+T1 a
+T1 b
+T1 c
+T3 a,f,b
+END
+# size = 15 cost = 91

@@ -1,0 +1,20 @@
+# permutation: aj-e11_complete_74(81)
+# [4, 0, 1, 5, 2, 6, 7, 8, 3, 9, 10, 11, 12, 13, 14, 15]
+# n.bits: 4
+# DH(pi)= 18
+# reverse option: 0
+.v b0,b1,b2,b3 
+.i b0,b1,b2,b3 
+.o b0,b1,b2,b3 
+BEGIN
+T4 b0,b1,b3',b2
+T4 b0,b2',b3',b1
+T4 b0',b1',b3',b2
+T4 b0',b2,b3',b1
+T4 b1,b2,b3',b0
+T4 b1',b2',b3',b0
+T4 b0',b1',b2',b3
+T2 b3',b1
+T2 b3',b0
+END
+# Total Gates =  9

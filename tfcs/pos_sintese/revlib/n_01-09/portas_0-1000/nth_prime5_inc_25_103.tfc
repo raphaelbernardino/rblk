@@ -1,0 +1,32 @@
+# (c) Copyright 2004-2009 Dmitri Maslov
+# Distributing this file without an express written permission or erasing this note is prohibited.
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+t2 d,a
+t2 d,b
+t2 c,d
+t3 a,b,c
+t3 d,e,a
+t2 e,b
+t2 e,d
+t3 d,e,c
+t3 b,d,e
+t1 a
+t3 a,c,b
+t4 a,b,c,d
+t1 a
+t3 b,e,d
+t4 a,d,e,b
+t2 d,c
+t3 c,d,a
+t4 b,c,e,a
+t2 e,c
+t4 a,b,e,c
+t2 d,b
+t3 b,d,a
+t3 c,d,e
+t2 a,b
+t2 b,a
+END

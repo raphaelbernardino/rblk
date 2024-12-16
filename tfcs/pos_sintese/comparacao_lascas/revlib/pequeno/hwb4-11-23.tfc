@@ -1,0 +1,17 @@
+.v a,b,c,d
+.i a,b,c,d
+.o a,b,c,d
+BEGIN
+T2 d,b
+T2 b,c
+T2 c,a
+T3 b,d,c
+T2 a,b
+T3 a,c,d
+T2 b,a
+T3 b,d,c
+T2 a,d
+T2 d,b
+T2 c,a
+END
+# size = 11 cost = 23

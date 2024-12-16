@@ -1,0 +1,29 @@
+#Written by RCViewer+ (RCViewer+ is a viewer/analyzer for quantum and reversible circuits)
+#See http://ceit.aut.ac.ir/QDA/RCV.htm for more details
+.v a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12
+.i a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12
+.o a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12
+.c 
+BEGIN
+
+t10 a2,a3,a4,a5,a6,a7,a8,a9,a12,a10
+t9 a2,a3,a4,a5,a6,a7,a8,a12,a9
+t8 a2,a3,a4,a5,a6,a7,a12,a8
+t7 a2,a3,a4,a5,a6,a12,a7
+t6 a2,a3,a4,a5,a12,a6
+t5 a2,a3,a4,a12,a5
+t4 a2,a3,a12,a4
+t3 a2,a12,a3
+t2 a12,a2
+t11 a1,a2,a3,a4,a5,a6,a7,a8,a9,a11,a10
+t10 a1,a2,a3,a4,a5,a6,a7,a8,a11,a9
+t9 a1,a2,a3,a4,a5,a6,a7,a11,a8
+t8 a1,a2,a3,a4,a5,a6,a11,a7
+t7 a1,a2,a3,a4,a5,a11,a6
+t6 a1,a2,a3,a4,a11,a5
+t5 a1,a2,a3,a11,a4
+t4 a1,a2,a11,a3
+t3 a1,a11,a2
+t2 a11,a1
+
+END

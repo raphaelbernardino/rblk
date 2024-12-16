@@ -1,0 +1,9 @@
+coloredlogs
+numpy
+pebble
+pytest
+pytest-sugar
+pytest-xdist
+qiskit
+rich
+sympy

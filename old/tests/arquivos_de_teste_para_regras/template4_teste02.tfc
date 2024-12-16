@@ -1,0 +1,8 @@
+.v c0,c1,c2,c3,t
+.i c0,c1,c2,c3,t
+.o c0,c1,c2,c3,t
+
+BEGIN
+T4 c0,c1',c2,t
+T4 c0',c1,c2',t
+END

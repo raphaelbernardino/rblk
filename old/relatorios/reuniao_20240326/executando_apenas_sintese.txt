@@ -1,0 +1,5 @@
+[2024-03-26 19:29:21] [teste_artigo   ] [L.   86] [INFO ] k=2 :: datasize=4 :: Custo CNOT médio: 6.87 :: Custo Quântico médio: 8.92
+[2024-03-26 19:29:33] [teste_artigo   ] [L.   86] [INFO ] k=3 :: datasize=8 :: Custo CNOT médio: 49.20 :: Custo Quântico médio: 54.23
+[2024-03-26 19:30:15] [teste_artigo   ] [L.   86] [INFO ] k=4 :: datasize=16 :: Custo CNOT médio: 266.46 :: Custo Quântico médio: 303.98
+[2024-03-26 19:32:33] [teste_artigo   ] [L.   86] [INFO ] k=5 :: datasize=32 :: Custo CNOT médio: 1,199.57 :: Custo Quântico médio: 1,616.25
+
