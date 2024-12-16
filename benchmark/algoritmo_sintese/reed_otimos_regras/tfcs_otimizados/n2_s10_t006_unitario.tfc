@@ -1,0 +1,6 @@
+# GATE_COUNT = 0 		 QUANTUM_COST = 0 		 ANCILLAS = 0
+.v b0
+.i b0
+.o b0
+BEGIN
+END

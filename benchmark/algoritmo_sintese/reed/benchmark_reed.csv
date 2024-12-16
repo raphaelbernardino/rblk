@@ -1,101 +1,102 @@
 Nome TFC,GC Original,QC Original,L Original,GC Otimizado,QC Otimizado,L Otimizado,Diff GC,Diff QC,Diff L,Observações
 n2_s10_t001_linear.tfc,6,6,4,6,6,4,0,0,0,
+n2_s10_t001_permutacao.tfc,18,18,4,18,18,4,0,0,0,
 n2_s10_t001_reed.tfc,2,6,4,2,6,4,0,0,0,
 n2_s10_t001_unitario.tfc,0,0,0,0,0,0,0,0,0,
-n2_s10_t001_permutacao.tfc,18,18,4,18,18,4,0,0,0,
 n2_s10_t002_linear.tfc,6,6,3,6,6,3,0,0,0,
+n2_s10_t002_permutacao.tfc,12,12,4,12,12,4,0,0,0,
 n2_s10_t002_reed.tfc,3,5,4,3,5,4,0,0,0,
 n2_s10_t002_unitario.tfc,2,2,2,0,0,0,2,2,2,
-n2_s10_t002_permutacao.tfc,12,12,4,12,12,4,0,0,0,
 n2_s10_t003_linear.tfc,6,6,3,6,6,3,0,0,0,
+n2_s10_t003_permutacao.tfc,6,6,3,6,6,3,0,0,0,
 n2_s10_t003_reed.tfc,5,11,4,5,11,4,0,0,0,
 n2_s10_t003_unitario.tfc,2,2,2,0,0,0,2,2,2,
-n2_s10_t003_permutacao.tfc,6,6,3,6,6,3,0,0,0,
 n2_s10_t004_linear.tfc,3,3,2,3,3,2,0,0,0,
+n2_s10_t004_permutacao.tfc,15,15,4,15,15,4,0,0,0,
 n2_s10_t004_reed.tfc,2,6,4,2,6,4,0,0,0,
 n2_s10_t004_unitario.tfc,3,3,2,1,1,2,2,2,0,
-n2_s10_t004_permutacao.tfc,15,15,4,15,15,4,0,0,0,
 n2_s10_t005_linear.tfc,9,9,4,9,9,4,0,0,0,
+n2_s10_t005_permutacao.tfc,9,9,4,9,9,4,0,0,0,
 n2_s10_t005_reed.tfc,2,4,4,2,4,4,0,0,0,
 n2_s10_t005_unitario.tfc,3,3,2,1,1,2,2,2,0,
-n2_s10_t005_permutacao.tfc,9,9,4,9,9,4,0,0,0,
 n2_s10_t006_linear.tfc,6,6,3,6,6,3,0,0,0,
+n2_s10_t006_permutacao.tfc,12,12,4,12,12,4,0,0,0,
 n2_s10_t006_reed.tfc,5,13,4,5,13,4,0,0,0,
 n2_s10_t006_unitario.tfc,2,2,2,0,0,0,2,2,2,
-n2_s10_t006_permutacao.tfc,12,12,4,12,12,4,0,0,0,
 n2_s10_t007_linear.tfc,3,3,2,3,3,2,0,0,0,
-n2_s10_t007_reed.tfc,3,3,4,3,3,4,0,0,0,
 n2_s10_t007_permutacao.tfc,9,9,3,9,9,3,0,0,0,
+n2_s10_t007_reed.tfc,3,3,4,3,3,4,0,0,0,
 n2_s10_t007_unitario.tfc,1,1,2,1,1,2,0,0,0,
 n2_s10_t008_linear.tfc,3,3,2,3,3,2,0,0,0,
 n2_s10_t008_permutacao.tfc,3,3,2,3,3,2,0,0,0,
-n2_s10_t008_unitario.tfc,3,3,2,1,1,2,2,2,0,
 n2_s10_t008_reed.tfc,2,2,4,2,2,4,0,0,0,
+n2_s10_t008_unitario.tfc,3,3,2,1,1,2,2,2,0,
 n2_s10_t009_linear.tfc,9,9,4,9,9,4,0,0,0,
 n2_s10_t009_permutacao.tfc,9,9,4,9,9,4,0,0,0,
-n2_s10_t009_unitario.tfc,1,1,2,1,1,2,0,0,0,
 n2_s10_t009_reed.tfc,5,13,4,5,13,4,0,0,0,
+n2_s10_t009_unitario.tfc,1,1,2,1,1,2,0,0,0,
 n2_s10_t010_linear.tfc,3,3,2,3,3,2,0,0,0,
 n2_s10_t010_permutacao.tfc,3,3,2,3,3,2,0,0,0,
-n2_s10_t010_unitario.tfc,1,1,2,1,1,2,0,0,0,
 n2_s10_t010_reed.tfc,3,3,4,3,3,4,0,0,0,
+n2_s10_t010_unitario.tfc,1,1,2,1,1,2,0,0,0,
 n3_s10_t001_linear.tfc,15,15,6,15,15,6,0,0,0,
+n3_s10_t001_permutacao.tfc,45,45,8,45,45,8,0,0,0,
 n3_s10_t001_reed.tfc,8,38,6,8,38,6,0,0,0,
 n3_s10_t001_unitario.tfc,20,20,3,2,2,3,18,18,0,
 n3_s10_t002_linear.tfc,9,9,6,9,9,6,0,0,0,
-n3_s10_t001_permutacao.tfc,45,45,8,45,45,8,0,0,0,
+n3_s10_t002_permutacao.tfc,27,27,6,27,27,6,0,0,0,
 n3_s10_t002_reed.tfc,7,43,6,7,43,6,0,0,0,
 n3_s10_t002_unitario.tfc,19,19,3,1,1,2,18,18,1,
-n3_s10_t002_permutacao.tfc,27,27,6,27,27,6,0,0,0,
 n3_s10_t003_linear.tfc,21,21,8,21,21,8,0,0,0,
+n3_s10_t003_permutacao.tfc,57,57,8,57,57,8,0,0,0,
 n3_s10_t003_reed.tfc,8,66,6,8,66,6,0,0,0,
 n3_s10_t003_unitario.tfc,19,19,3,1,1,2,18,18,1,
 n3_s10_t004_linear.tfc,21,21,8,26,66,8,-5,-45,0,
-n3_s10_t003_permutacao.tfc,57,57,8,57,57,8,0,0,0,
+n3_s10_t004_permutacao.tfc,33,33,8,33,33,8,0,0,0,
 n3_s10_t004_reed.tfc,10,59,6,10,59,6,0,0,0,
 n3_s10_t004_unitario.tfc,20,20,3,2,2,3,18,18,0,
-n3_s10_t004_permutacao.tfc,33,33,8,33,33,8,0,0,0,
 n3_s10_t005_linear.tfc,15,15,7,18,42,7,-3,-27,0,
+n3_s10_t005_permutacao.tfc,45,45,8,45,45,8,0,0,0,
 n3_s10_t005_reed.tfc,9,41,6,9,41,6,0,0,0,
 n3_s10_t005_unitario.tfc,19,19,3,1,1,2,18,18,1,
 n3_s10_t006_linear.tfc,21,21,8,21,21,8,0,0,0,
-n3_s10_t005_permutacao.tfc,45,45,8,45,45,8,0,0,0,
+n3_s10_t006_permutacao.tfc,39,39,8,39,39,8,0,0,0,
 n3_s10_t006_reed.tfc,8,64,6,8,64,6,0,0,0,
 n3_s10_t006_unitario.tfc,19,19,3,1,1,2,18,18,1,
 n3_s10_t007_linear.tfc,15,15,7,15,15,7,0,0,0,
-n3_s10_t006_permutacao.tfc,39,39,8,39,39,8,0,0,0,
+n3_s10_t007_permutacao.tfc,33,33,7,33,33,7,0,0,0,
 n3_s10_t007_reed.tfc,10,39,6,10,39,6,0,0,0,
 n3_s10_t007_unitario.tfc,20,20,3,2,2,3,18,18,0,
 n3_s10_t008_linear.tfc,15,15,7,15,15,7,0,0,0,
-n3_s10_t007_permutacao.tfc,33,33,7,33,33,7,0,0,0,
+n3_s10_t008_permutacao.tfc,39,39,8,39,39,8,0,0,0,
 n3_s10_t008_reed.tfc,7,33,6,7,33,6,0,0,0,
 n3_s10_t008_unitario.tfc,16,16,3,2,2,3,14,14,0,
 n3_s10_t009_linear.tfc,18,18,8,18,26,8,0,-8,0,
-n3_s10_t008_permutacao.tfc,39,39,8,39,39,8,0,0,0,
+n3_s10_t009_permutacao.tfc,48,48,8,48,48,8,0,0,0,
 n3_s10_t009_reed.tfc,10,66,6,10,66,6,0,0,0,
 n3_s10_t009_unitario.tfc,19,19,3,1,1,2,18,18,1,
 n3_s10_t010_linear.tfc,12,12,6,12,12,6,0,0,0,
-n3_s10_t009_permutacao.tfc,48,48,8,48,48,8,0,0,0,
+n3_s10_t010_permutacao.tfc,54,54,8,54,54,8,0,0,0,
 n3_s10_t010_reed.tfc,10,54,6,10,54,6,0,0,0,
 n3_s10_t010_unitario.tfc,19,19,3,1,1,2,18,18,1,
-n3_s10_t010_permutacao.tfc,54,54,8,54,54,8,0,0,0,
 n4_s10_t001_linear.tfc,42,42,16,46,126,16,-4,-84,0,
+n4_s10_t001_permutacao.tfc,222,222,16,222,222,16,0,0,0,
 n4_s10_t001_reed.tfc,20,281,8,20,281,8,0,0,0,
 n4_s10_t001_unitario.tfc,100,100,4,16,16,4,84,84,0,
 n4_s10_t002_linear.tfc,36,36,14,44,204,14,-8,-168,0,
-n4_s10_t001_permutacao.tfc,222,222,16,222,222,16,0,0,0,
+n4_s10_t002_permutacao.tfc,198,198,16,198,198,16,0,0,0,
 n4_s10_t002_reed.tfc,24,322,8,24,322,8,0,0,0,
 n4_s10_t002_unitario.tfc,99,99,4,15,15,3,84,84,1,
 n4_s10_t003_linear.tfc,36,36,14,48,1056,14,-12,-1020,0,
-n4_s10_t002_permutacao.tfc,198,198,16,198,198,16,0,0,0,
+n4_s10_t003_permutacao.tfc,198,198,16,198,198,16,0,0,0,
 n4_s10_t003_reed.tfc,28,334,8,28,334,8,0,0,0,
 n4_s10_t003_unitario.tfc,100,100,4,16,16,4,84,84,0,
 n4_s10_t004_linear.tfc,33,33,15,52,740,15,-19,-707,0,
-n4_s10_t003_permutacao.tfc,198,198,16,198,198,16,0,0,0,
+n4_s10_t004_permutacao.tfc,165,165,16,165,165,16,0,0,0,
 n4_s10_t004_reed.tfc,16,198,8,16,198,8,0,0,0,
 n4_s10_t004_unitario.tfc,100,100,4,16,16,4,84,84,0,
-n4_s10_t004_permutacao.tfc,165,165,16,165,165,16,0,0,0,
 n4_s10_t005_linear.tfc,39,39,16,39,63,16,0,-24,0,
+n4_s10_t005_permutacao.tfc,219,219,16,219,219,16,0,0,0,
 n4_s10_t005_reed.tfc,25,263,8,25,263,8,0,0,0,
 n4_s10_t005_unitario.tfc,99,99,4,15,15,3,84,84,1,
 n4_s10_t006_linear.tfc,45,45,16,45,77,16,0,-32,0,
@@ -103,19 +104,19 @@ n4_s10_t006_permutacao.tfc,177,177,16,177,177,16,0,0,0,
 n4_s10_t006_reed.tfc,23,277,8,23,277,8,0,0,0,
 n4_s10_t006_unitario.tfc,100,100,4,16,16,4,84,84,0,
 n4_s10_t007_linear.tfc,33,33,14,34,82,14,-1,-49,0,
-n4_s10_t005_permutacao.tfc,219,219,16,219,219,16,0,0,0,
+n4_s10_t007_permutacao.tfc,183,183,16,183,183,16,0,0,0,
 n4_s10_t007_reed.tfc,21,307,8,21,307,8,0,0,0,
 n4_s10_t007_unitario.tfc,99,99,4,15,15,3,84,84,1,
 n4_s10_t008_linear.tfc,39,39,15,47,207,15,-8,-168,0,
-n4_s10_t007_permutacao.tfc,183,183,16,183,183,16,0,0,0,
+n4_s10_t008_permutacao.tfc,207,207,15,207,207,15,0,0,0,
 n4_s10_t008_reed.tfc,26,348,8,26,348,8,0,0,0,
 n4_s10_t008_unitario.tfc,100,100,4,16,16,4,84,84,0,
-n4_s10_t008_permutacao.tfc,207,207,15,207,207,15,0,0,0,
 n4_s10_t009_linear.tfc,39,39,14,42,90,14,-3,-51,0,
+n4_s10_t009_permutacao.tfc,165,165,15,165,165,15,0,0,0,
 n4_s10_t009_reed.tfc,29,380,8,29,380,8,0,0,0,
 n4_s10_t009_unitario.tfc,100,100,4,16,16,4,84,84,0,
 n4_s10_t010_linear.tfc,39,39,16,42,82,16,-3,-43,0,
-n4_s10_t009_permutacao.tfc,165,165,15,165,165,15,0,0,0,
+n4_s10_t010_permutacao.tfc,171,171,16,171,171,16,0,0,0,
 n4_s10_t010_reed.tfc,18,233,8,18,233,8,0,0,0,
 n4_s10_t010_unitario.tfc,100,100,4,16,16,4,84,84,0,
 n5_s10_t001_linear.tfc,84,84,31,-,-,-,-,-,-,"Erro: Unable to allocate 128. GiB for an array with shape (4294967296, 32) and data type uint8"
@@ -173,109 +174,108 @@ n6_s10_t003_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n6_s10_t004_linear.tfc,171,171,61,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t004_permutacao.tfc,2973,2973,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t004_reed.tfc,141,8322,12,165,13911,12,-24,-5589,0,
-n4_s10_t010_permutacao.tfc,171,171,16,171,171,16,0,0,0,
+n6_s10_t004_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n6_s10_t005_linear.tfc,171,171,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t005_permutacao.tfc,2793,2793,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
-n6_s10_t004_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n6_s10_t005_reed.tfc,144,8269,12,159,13981,12,-15,-5712,0,
+n6_s10_t005_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n6_s10_t006_linear.tfc,183,183,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t006_permutacao.tfc,2553,2553,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
-n6_s10_t005_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n6_s10_t006_reed.tfc,160,7802,12,159,14009,12,1,-6207,0,
-n6_s10_t007_linear.tfc,171,171,61,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t006_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
+n6_s10_t007_linear.tfc,171,171,61,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t007_permutacao.tfc,3081,3081,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t007_reed.tfc,147,8496,12,161,13881,12,-14,-5385,0,
-n6_s10_t008_linear.tfc,177,177,62,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t007_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
+n6_s10_t008_linear.tfc,177,177,62,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t008_permutacao.tfc,3219,3219,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t008_reed.tfc,149,8595,12,171,14881,12,-22,-6286,0,
-n6_s10_t009_linear.tfc,180,180,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t008_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
+n6_s10_t009_linear.tfc,180,180,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t009_permutacao.tfc,3300,3300,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t009_reed.tfc,141,7967,12,155,12851,12,-14,-4884,0,
-n6_s10_t010_linear.tfc,177,177,62,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t009_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
+n6_s10_t010_linear.tfc,177,177,62,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t010_permutacao.tfc,2871,2871,64,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n6_s10_t010_reed.tfc,147,9122,12,176,14476,12,-29,-5354,0,
 n6_s10_t010_unitario.tfc,1868,1868,6,380,380,6,1488,1488,0,
 n7_s10_t001_linear.tfc,369,369,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t001_permutacao.tfc,12765,12765,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t001_reed.tfc,316,35520,14,599,221477,14,-283,-185957,0,
+n7_s10_t001_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t002_linear.tfc,369,369,126,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t002_permutacao.tfc,12537,12537,127,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
-n7_s10_t001_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t002_reed.tfc,364,42487,14,632,235980,14,-268,-193493,0,
+n7_s10_t002_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t003_linear.tfc,378,378,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t003_permutacao.tfc,10398,10398,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t003_reed.tfc,357,39699,14,633,234393,14,-276,-194694,0,
-n7_s10_t002_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t003_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t004_linear.tfc,354,354,127,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t004_permutacao.tfc,11772,11772,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t004_reed.tfc,340,38696,14,604,225144,14,-264,-186448,0,
-n7_s10_t003_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t004_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t005_linear.tfc,372,372,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t005_permutacao.tfc,12330,12330,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t005_reed.tfc,347,40401,14,620,230356,14,-273,-189955,0,
-n7_s10_t004_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t005_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t006_linear.tfc,372,372,127,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t006_permutacao.tfc,11298,11298,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t006_reed.tfc,357,40732,14,629,230731,14,-272,-189999,0,
-n7_s10_t005_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t006_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t007_linear.tfc,360,360,126,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t007_permutacao.tfc,11700,11700,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t007_reed.tfc,352,40979,14,608,218516,14,-256,-177537,0,
-n7_s10_t006_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t007_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t008_linear.tfc,369,369,127,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t008_permutacao.tfc,13065,13065,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t008_reed.tfc,331,38116,14,589,214739,14,-258,-176623,0,
-n7_s10_t007_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t008_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t009_linear.tfc,357,357,125,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t009_permutacao.tfc,11919,11919,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t009_reed.tfc,356,38578,14,588,215330,14,-232,-176752,0,
-n7_s10_t008_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t009_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n7_s10_t010_linear.tfc,363,363,126,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t010_permutacao.tfc,12087,12087,128,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n7_s10_t010_reed.tfc,355,42561,14,578,209264,14,-223,-166703,0,
-n7_s10_t009_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
+n7_s10_t010_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n8_s10_t001_linear.tfc,759,759,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t001_permutacao.tfc,50331,50331,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
-n7_s10_t010_unitario.tfc,7660,7660,7,1612,1612,7,6048,6048,0,
 n8_s10_t001_reed.tfc,819,188478,16,661,258313,16,158,-69835,0,
+n8_s10_t001_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t002_linear.tfc,750,750,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t002_permutacao.tfc,44628,44628,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t002_reed.tfc,745,171112,16,644,248760,16,101,-77648,0,
-n8_s10_t001_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t002_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t003_linear.tfc,738,738,255,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t003_permutacao.tfc,50640,50640,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t003_reed.tfc,794,172119,16,660,257736,16,134,-85617,0,
-n8_s10_t002_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t003_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t004_linear.tfc,747,747,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t004_permutacao.tfc,51333,51333,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t004_reed.tfc,744,176470,16,642,244356,16,102,-67886,0,
-n8_s10_t003_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t004_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t005_linear.tfc,744,744,255,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t005_permutacao.tfc,50028,50028,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t005_reed.tfc,763,182019,16,636,243410,16,127,-61391,0,
-n8_s10_t004_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t005_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t006_linear.tfc,756,756,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t006_permutacao.tfc,46950,46950,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t006_reed.tfc,752,173246,16,656,256214,16,96,-82968,0,
-n8_s10_t005_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t006_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t007_linear.tfc,753,753,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t007_permutacao.tfc,50619,50619,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t007_reed.tfc,813,185439,16,671,264043,16,142,-78604,0,
-n8_s10_t006_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t007_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t008_linear.tfc,753,753,255,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t008_permutacao.tfc,46473,46473,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t008_reed.tfc,838,187072,16,665,258687,16,173,-71615,0,
-n8_s10_t007_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t008_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t009_linear.tfc,759,759,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t009_permutacao.tfc,46041,46041,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t009_reed.tfc,805,179809,16,653,252577,16,152,-72768,0,
-n8_s10_t008_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
+n8_s10_t009_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t010_linear.tfc,744,744,255,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t010_permutacao.tfc,47238,47238,256,-,-,-,-,-,-,Erro: Python int too large to convert to C ssize_t
 n8_s10_t010_reed.tfc,783,183301,16,627,236527,16,156,-53226,0,
-n8_s10_t009_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,
 n8_s10_t010_unitario.tfc,31020,31020,8,6636,6636,8,24384,24384,0,

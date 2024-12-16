@@ -1,0 +1,7 @@
+# GATE_COUNT = 1 		 QUANTUM_COST = 1 		 ANCILLAS = 0
+.v b0,b1
+.i b0,b1
+.o b0,b1
+BEGIN
+T2 b1,b0
+END
