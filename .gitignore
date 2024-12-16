@@ -1,6 +1,7 @@
 # Personal exclusions
 *.prof
 *~
+old/
 
 # excel / libreoffice lock files
 .~lock*

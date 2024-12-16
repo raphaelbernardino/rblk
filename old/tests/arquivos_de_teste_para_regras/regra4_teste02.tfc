@@ -1,8 +1,0 @@
-.v b0,b1
-.i b0,b1
-.o b0,b1
-
-BEGIN
-T1 b0
-T2 b0',b1
-END
